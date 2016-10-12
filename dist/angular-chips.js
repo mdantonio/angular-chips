@@ -228,13 +228,7 @@
 
         return {
             restrict: 'E',
-            scope: {
-                /*
-                 * optional callback, this will be called before rendering the data,
-                 * user can modify the data before it's rendered
-                 */
-                render: '&?'
-            },
+            scope: false,
             transclude: true,
             require: 'ngModel',
             link: linkFun,

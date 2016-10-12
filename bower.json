@@ -1,9 +1,10 @@
 {
   "name": "angular-chips",
   "version": "2.0",
-  "homepage": "https://github.com/mohbasheer/angular-chips",
+  "homepage": "https://github.com/mdantonio/angular-chips",
   "authors": [
-    "Mohammed Basheer"
+    "Mohammed Basheer",
+    "Mattia D'Antonio"
   ],
   "description": "Angular-Chips is the angular based component. You can use it to add dynamic chips",
   "main": [

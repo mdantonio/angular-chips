@@ -2,7 +2,7 @@
   "name": "angular-chips",
   "version": "2.0",
   "description": "",
-  "author": "Mohammed Basheer",
+  "author": "Mohammed Basheer, Mattia D'Antonio",
   "license": "MIT",
   "devDependencies": {
     "gulp": "^3.9.0",
